@@ -4,3 +4,5 @@ CONTENTS OF ASSIGNMENT FOLDER
 2) for this assignment we know git well and practicing ("*inside master branch*)
 
 #) hello welcome
+
+$) minor change into js-assugnment branch
